@@ -1,3 +1,7 @@
+Loom Video Link:[https://www.loom.com/share/2418543c1f594824b90ee024372d0e0c?sid=d548a121-4d69-4e6f-8f1a-4856be060b6a]
+
+
+
 # DJS09: Couch Surfing | Typescript Practice
 
 ## Challenge Overview
